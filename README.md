@@ -7,5 +7,6 @@
 ![alt text](image/Frame_Work0.png)
 
 ## 实验结果展示：
+如果看不到gif，停留一会让它加载就好了
 
 ![alt text](image/CG_Work0.gif)
